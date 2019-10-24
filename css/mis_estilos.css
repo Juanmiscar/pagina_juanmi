@@ -1,0 +1,18 @@
+body{
+  background-image: url(../image/dark.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.borde{
+   height: 50px;
+   text-align: center;
+}
+
+.color1{background-color: black;color:white;}
+.color2{background-color: black;color: white;}
+.color3{background-color: black;color: white;}
+.color4{background-color: black;color: white;}
+.color5{background-color: black;color: white;}
